@@ -2,6 +2,6 @@
 
 [webpack.js.org guide](https://webpack.js.org/guides/getting-started/)
 
-source code is code that we will write and edit
+source code is code that we will write and edit that webpack will bundle for us.
 
 Dist (distribution) code is the minimized and optimized output of our build process that will eventually be loaded in the browser
