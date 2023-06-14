@@ -1,3 +1,4 @@
 export default function printMe() {
-  console.log("I get called from print.js!");
+  // intentional error for dev tools:
+  cosnole.log("I get called from print.js!");
 }
