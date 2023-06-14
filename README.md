@@ -1,6 +1,6 @@
 # webpack-getting-started
 
-Project started [webpack.js.org guide](https://webpack.js.org/guides/getting-started/), then expanded upon via [Odin project ES6 modules](https://www.theodinproject.com/lessons/node-path-javascript-es6-modules).
+Project started from [webpack.js.org guide](https://webpack.js.org/guides/getting-started/), then expanded upon completing the assignments in [Odin project ES6 modules](https://www.theodinproject.com/lessons/node-path-javascript-es6-modules) to learn about Webpack.
 
 ## Notes:
 
